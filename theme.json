@@ -1,0 +1,68 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+
+    "settings": {
+        "color": {
+            "defaultPalette": false,
+            "custom": false,
+            "palette": [
+                {
+                    "slug": "primary",
+                    "color": "#001E32",
+                    "name": "Primary"
+                },
+                {
+                    "slug": "secondary",
+                    "color": "#CFAF07", 
+                    "name": "Secondary"
+                },
+                {
+                    "slug": "tertiary",
+                    "color": "#2A92D3",
+                    "name": "Tertiary"
+                },
+                {
+                    "slug": "quaternary",
+                    "color": "#7C7C7C",
+                    "name": "Quaternary"
+                },
+                {
+                    "slug": "background",
+                    "color": "#F7F7F7",
+                    "name": "Background"
+                },
+                {
+                    "slug": "foreground",
+                    "color": "#213C4D",
+                    "name": "Foreground"
+                }
+            ]
+        },
+        "layout": {
+            "contentSize": "1140px",
+            "wideSize": "1300px"
+        },
+        "appearanceTools": true,
+        "blocks": {
+            "core/paragraph": {
+                "color": {
+                    "defaultPalette": true,
+                    "custom": true,
+                    "palette": [
+                        {
+                            "slug": "primary",
+                            "color": "#001E32",
+                            "name": "Primary"
+                        },
+                        {
+                            "slug": "secondary",
+                            "color": "#CFAF07", 
+                            "name": "Secondary"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

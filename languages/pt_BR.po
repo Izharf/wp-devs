@@ -1,0 +1,259 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Devs v1.0.0\n"
+"POT-Creation-Date: 2022-04-05 12:17-0300\n"
+"PO-Revision-Date: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: Marcelo Vieira <marceloquinze@gmail.com>\n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: 404.php:9
+msgid "Unfortunately, the page you tried to reach does not exist on this site."
+msgstr "Infelizmente, a página que você tentou acessar não existe neste site."
+
+#: 404.php:13
+msgid "How about doing a search?"
+msgstr "Que tal fazer uma pesquisa?"
+
+#: 404.php:19
+msgid "Latest Posts"
+msgstr "Últimos Posts"
+
+#: archive.php:20 index.php:19
+msgid "<< Newer posts"
+msgstr "<< Posts mais novos"
+
+#: archive.php:23 index.php:22
+msgid "Older posts >>"
+msgstr "Posts mais antigos >>"
+
+#: archive.php:28 general-template.php:26 index.php:27 page-home.php:74
+msgid "Nothing yet to be displayed!"
+msgstr "Nada para ser mostrado ainda!"
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Um pensamento sobre &ldquo;%s&rdquo;"
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pensamento sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensamentos sobre &ldquo;%2$s&rdquo;"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: footer.php:4 inc/customizer.php:17
+msgid "Copyright X - All Rights Reserved"
+msgstr "Copyright X - Todos os direitos reservados"
+
+#: functions.php:19
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: functions.php:20
+msgid "Footer Menu"
+msgstr "Menu de Rodapé"
+
+#: functions.php:46
+msgid "Blog Sidebar"
+msgstr "Barra lateral do blog"
+
+#: functions.php:48
+msgid "This is the Blog Sidebar. You can add your widgets here."
+msgstr "Esta é a barra lateral do blog. Você pode adicionar seus widgets aqui. "
+
+#: functions.php:57
+msgid "Service 1"
+msgstr "Serviço 1"
+
+#: functions.php:59
+msgid "First Service Area"
+msgstr "Primeira área de serviços."
+
+#: functions.php:68
+msgid "Service 2"
+msgstr "Serviço 2"
+
+#: functions.php:70
+msgid "Second Service Area"
+msgstr "Segunda área de serviços."
+
+#: functions.php:79
+msgid "Service 3"
+msgstr "Serviço 3"
+
+#: functions.php:81
+msgid "Third Service Area"
+msgstr "Terceira área de serviços."
+
+#: inc/customizer.php:8 inc/customizer.php:9
+msgid "Copyright Settings"
+msgstr "Configurações de Copyright"
+
+#: inc/customizer.php:25
+msgid "Copyright Information"
+msgstr "Informações sobre direitos autorais"
+
+#: inc/customizer.php:26
+msgid "Please, type your copyright here"
+msgstr "Por favor, digite suas informações sobre direitos autorais aqui."
+
+#: inc/customizer.php:36
+msgid "Hero Section"
+msgstr "Seção Hero"
+
+#: inc/customizer.php:45
+msgid "Please, add some title"
+msgstr "Por favor, insira um título"
+
+#: inc/customizer.php:53
+msgid "Hero Title"
+msgstr "Título do Hero"
+
+#: inc/customizer.php:54
+msgid "Please, type your here title here"
+msgstr "Por favor, digite o título do seu Hero aqui"
+
+#: inc/customizer.php:65
+msgid "Please, add some subtitle"
+msgstr "Por favor, adicione algum subtítulo"
+
+#: inc/customizer.php:73
+msgid "Hero Subtitle"
+msgstr "Subtítulo do Hero"
+
+#: inc/customizer.php:74
+msgid "Please, type your subtitle here"
+msgstr "Por favor, digite seu subtítulo aqui"
+
+#: inc/customizer.php:85 page-home.php:9
+msgid "Learn More"
+msgstr "Saiba Mais"
+
+#: inc/customizer.php:93
+msgid "Hero button text"
+msgstr "Texto do botão do Hero"
+
+#: inc/customizer.php:94
+msgid "Please, type your hero button text here"
+msgstr "Por favor, digite o texto do botão do seu Hero aqui"
+
+#: inc/customizer.php:113
+msgid "Hero button link"
+msgstr "Link do botão do Hero"
+
+#: inc/customizer.php:114
+msgid "Please, type your hero button link here"
+msgstr "Por favor, digite o link do botão do seu Hero aqui"
+
+#: inc/customizer.php:133
+msgid "Hero height"
+msgstr "Altura do Hero"
+
+#: inc/customizer.php:134
+msgid "Please, type your hero height"
+msgstr "Por favor, digite a altura do seu Hero"
+
+#: inc/customizer.php:152
+msgid "Hero Image"
+msgstr "Imagem do Hero"
+
+#: inc/customizer.php:161
+msgid "Blog Section"
+msgstr "Seção Blog"
+
+#: inc/customizer.php:175
+msgid "Posts per page"
+msgstr "Posts por página"
+
+#: inc/customizer.php:176
+msgid "How many items to display in the post list?"
+msgstr "Quantos itens mostrar na lista de posts?"
+
+#: inc/customizer.php:192
+msgid "Post categories to include"
+msgstr "Categorias de posts a incluir"
+
+#: inc/customizer.php:193 inc/customizer.php:210
+msgid "Comma separated values or single category ID"
+msgstr "Valores separados por vírgulas ou ID de uma categoria simples"
+
+#: inc/customizer.php:209
+msgid "Post categories to exclude"
+msgstr "Categorias de posts para excluir"
+
+#: index.php:8
+msgid "Blog"
+msgstr "Blog"
+
+#: page-home.php:6
+msgid "Please, type some title"
+msgstr "Por favor, digite algum título"
+
+#: page-home.php:7
+msgid "Please, type some subtitle"
+msgstr "Por favor, adicione algum subtítulo"
+
+#: page-home.php:25
+msgid "Services"
+msgstr "Serviços"
+
+#: page-home.php:51
+msgid "Latest News"
+msgstr "Últimas notícias"
+
+#: parts/content-latest-news.php:8 parts/content-search.php:7
+#: parts/content-single.php:6 parts/content.php:7
+msgid "by"
+msgstr "por"
+
+#: parts/content-latest-news.php:10 parts/content-search.php:9
+#: parts/content-single.php:8 parts/content.php:9
+msgid "Categories"
+msgstr "Categorias"
+
+#: parts/content-latest-news.php:13 parts/content-search.php:12
+#: parts/content-single.php:11 parts/content.php:12
+msgid "Tags"
+msgstr "Tags"
+
+#: parts/content-search.php:7 parts/content-single.php:6 parts/content.php:7
+msgid "Posted in"
+msgstr "Postado em"
+
+#: search.php:7
+msgid "Search results for"
+msgstr "Resultados de busca para"
+
+#: searchform.php:3
+msgid "Search for"
+msgstr "Pesquisa por"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "Pesquisar"
