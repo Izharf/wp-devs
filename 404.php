@@ -10,7 +10,7 @@
                     </header>
 
                     <div class="error">
-                        <p><?php esc_html_e( 'How about doing a search?', 'wp-devs' ) ?></p>
+                        <p><?php esc_html_e( 'please search?', 'wp-devs' ) ?></p>
                         <?php get_search_form(); ?>
                         <?php 
                         the_widget( 
