@@ -42,7 +42,7 @@ function wpdevs_customizer( $wp_customize ){
                 'set_hero_title',
                 array(
                     'type' => 'theme_mod',
-                    'default' => __( 'Please, add some title', 'wp-devs' ),
+                    'default' => __( 'Please, add some title here', 'wp-devs' ),
                     'sanitize_callback' => 'sanitize_text_field'
                 )
             );
@@ -62,7 +62,7 @@ function wpdevs_customizer( $wp_customize ){
                 'set_hero_subtitle',
                 array(
                     'type' => 'theme_mod',
-                    'default' => __( 'Please, add some subtitle', 'wp-devs' ),
+                    'default' => __( 'Please, add some subtitle here', 'wp-devs' ),
                     'sanitize_callback' => 'sanitize_textarea_field'
                 )
             );
