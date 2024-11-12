@@ -251,7 +251,7 @@ Tags: one-column, custom-menu, custom-logo, featured-images, translation-ready
    */
   
   fieldset {
-    padding: 0.35em 0.75em 0.625em;
+    padding: 0.45em 0.75em 0.625em;
   }
   
   /**
@@ -313,7 +313,7 @@ Tags: one-column, custom-menu, custom-logo, featured-images, translation-ready
   
   [type="search"] {
     -webkit-appearance: textfield; /* 1 */
-    outline-offset: -2px; /* 2 */
+    outline-offset: -3px; /* 2 */
   }
   
   /**
